@@ -9,4 +9,4 @@ I’m a junior Data Analyst with a background in Finance and MIS, passionate abo
 🚀 Open to opportunities in data analysis, business intelligence, and data visualization (including remote).
 📍 Based in France
 
-📲 Let’s connect ➡︎ www.linkedin.com/in/amal-mohamed-041a44122
+📲 Let’s connect ➡︎ www.linkedin.com/in/amal-mo
