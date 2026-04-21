@@ -1,12 +1,12 @@
-💡 About Me:
+💡 About Me
+Hey, I'm Amal 👋
 
-Hey, I’m Amal 👋
+I am a Data Analyst based in Caen, France with a foundation in financial operations at Jones Lang LaSalle Dubai across the MENA region. I deliberately upskilled into Power BI with DAX and Power Query, SQL, Python with Pandas and Tableau. I translate financial and operational data into insights people actually use.
 
-I’m a junior Data Analyst with a background in Finance and MIS, passionate about transforming complex data into clear, impactful solutions. With skills in SQL, Power BI, Tableau, and Python, I analyze trends, build visualizations, and solve business problems through data.
+📊 This profile showcases my personal projects — from cleaning a 945,000-row civic dataset to building KPI dashboards that surface real business insights. My projects cover finance, sales, urban planning and customer service analytics.
 
-📊 Here, I showcase my personal projects — applying real-world data to uncover insights, optimize strategies, and sharpen my analytical skills. I'm particularly interested in projects related to marketing, tech, health and finance. If you're looking for a data-driven problem solver, let’s connect!
+🎓 Certified Data Analyst — DataScientest in partnership with Université Paris 1 Panthéon-Sorbonne (2025). Government-accredited programme, post-Bachelor level.
 
-🚀 Open to opportunities in data analysis, business intelligence, and data visualization (including remote).
-📍 Based in France
-
-📲 Let’s connect ➡︎ www.linkedin.com/in/amal-mo
+🚀 Open to remote data analyst opportunities worldwide.
+📍 Based in Caen, France. English and French fluent.
+📲 Let's connect: linkedin.com/in/amalaltlb
